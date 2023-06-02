@@ -1,0 +1,1026 @@
+{
+   "General Medicine": [
+      "Medicine"
+   ],
+   "Medicine (miscellaneous)": [
+      "Medicine"
+   ],
+   "Internal Medicine": [
+      "Medicine"
+   ],
+   "Cardiology and Cardiovascular Medicine": [
+      "Medicine"
+   ],
+   "Radiology, Nuclear Medicine and imaging": [
+      "Medicine"
+   ],
+   "Pathology and Forensic Medicine": [
+      "Medicine"
+   ],
+   "Anesthesiology and Pain Medicine": [
+      "Medicine"
+   ],
+   "Ophthalmology": [
+      "Medicine"
+   ],
+   "Optometry": [
+      "Medicine"
+   ],
+   "Geriatrics and Gerontology": [
+      "Medicine"
+   ],
+   "Gerontology": [
+      "Medicine"
+   ],
+   "Pediatrics, Perinatology and Child Health": [
+      "Medicine"
+   ],
+   "Pediatrics, Perinatology, and Child Health": [
+      "Medicine"
+   ],
+   "Pediatrics": [
+      "Medicine"
+   ],
+   "Hematology": [
+      "Medicine"
+   ],
+   "Oncology": [
+      "Medicine"
+   ],
+   "Oncology (nursing)": [
+      "Medicine",
+      "Nursing"
+   ],
+   "Cancer Research": [
+      "Medicine"
+   ],
+   "Urology": [
+      "Medicine"
+   ],
+   "Hepatology": [
+      "Medicine"
+   ],
+   "Nephrology": [
+      "Medicine"
+   ],
+   "Endocrinology": [
+      "Medicine"
+   ],
+   "Endocrinology, Diabetes and Metabolism": [
+      "Medicine",
+      "Biochemistry"
+   ],
+   "Endocrine and Autonomic Systems": [
+      "Biology"
+   ],
+   "Gastroenterology": [
+      "Medicine"
+   ],
+   "Rheumatology": [
+      "Medicine"
+   ],
+   "Dermatology": [
+      "Medicine"
+   ],
+   "Reproductive Medicine": [
+      "Medicine"
+   ],
+   "Orthopedics and Sports Medicine": [
+      "Medicine",
+      "Surgery"
+   ],
+   "Pulmonary and Respiratory Medicine": [
+      "Medicine"
+   ],
+   "Otorhinolaryngology": [
+      "Medicine"
+   ],
+   "Family Practice": [
+      "Medicine"
+   ],
+   "Assessment and Diagnosis": [
+      "Medicine"
+   ],
+   "Medical Terminology": [
+      "Medicine"
+   ],
+   "Medical Assisting and Transcription": [
+      "Medicine"
+   ],
+   "Medical Laboratory Technology": [
+      "Medicine"
+   ],
+   "Reviews and References (medical)": [
+      "Medicine"
+   ],
+   "General Dentistry": [
+      "Dentistry"
+   ],
+   "Dentistry (miscellaneous)": [
+      "Dentistry"
+   ],
+   "Orthodontics": [
+      "Dentistry"
+   ],
+   "Periodontics": [
+      "Dentistry"
+   ],
+   "Critical Care and Intensive Care Medicine": [
+      "Medicine"
+   ],
+   "Critical Care Nursing": [
+      "Nursing"
+   ],
+   "Emergency Medicine": [
+      "Medicine"
+   ],
+   "Emergency Medical Services": [
+      "Medicine"
+   ],
+   "Emergency Nursing": [
+      "Nursing"
+   ],
+   "General Nursing": [
+      "Nursing"
+   ],
+   "Nursing (miscellaneous)": [
+      "Nursing"
+   ],
+   "Medical\u2013Surgical Nursing": [
+      "Nursing"
+   ],
+   "Advanced and Specialized Nursing": [
+      "Nursing"
+   ],
+   "Nurse Assisting": [
+      "Nursing"
+   ],
+   "LPN and LVN": [
+      "Nursing"
+   ],
+   "Respiratory Care": [
+      "Medicine"
+   ],
+   "Rehabilitation": [
+      "Medicine"
+   ],
+   "Life-span and Life-course Studies": [
+      "Biology"
+   ],
+   "Aging": [
+      "Biology"
+   ],
+   "Surgery": [
+      "Surgery"
+   ],
+   "Oral Surgery": [
+      "Surgery"
+   ],
+   "Chiropractics": [
+      "Medicine"
+   ],
+   "Podiatry": [
+      "Medicine"
+   ],
+   "Physical Therapy, Sports Therapy and Rehabilitation": [
+      "Medicine"
+   ],
+   "Occupational Therapy": [
+      "Medicine"
+   ],
+   "Complementary and Manual Therapy": [
+      "Medicine"
+   ],
+   "Transplantation": [
+      "Medicine"
+   ],
+   "Obstetrics and Gynecology": [
+      "Medicine"
+   ],
+   "Maternity and Midwifery": [
+      "Medicine"
+   ],
+   "Infectious Diseases": [
+      "Infectious Diseases"
+   ],
+   "Virology": [
+      "Virology"
+   ],
+   "Immunology and Allergy": [
+      "Immunology"
+   ],
+   "Immunology": [
+      "Immunology"
+   ],
+   "General Immunology and Microbiology": [
+      "Immunology",
+      "Microbiology"
+   ],
+   "Immunology and Microbiology (miscellaneous)": [
+      "Microbiology",
+      "Immunology"
+   ],
+   "Microbiology (medical)": [
+      "Microbiology",
+      "Medicine"
+   ],
+   "Microbiology": [
+      "Microbiology"
+   ],
+   "Applied Microbiology and Biotechnology": [
+      "Microbiology",
+      "Biotechnology and Bioengineering"
+   ],
+   "Physiology (medical)": [
+      "Anatomy and Physiology",
+      "Medicine"
+   ],
+   "Physiology": [
+      "Anatomy and Physiology"
+   ],
+   "General Biochemistry, Genetics and Molecular Biology": [
+      "Biochemistry",
+      "Genetics"
+   ],
+   "Biochemistry, Genetics and Molecular Biology (miscellaneous)": [
+      "Biochemistry",
+      "Genetics"
+   ],
+   "Biochemistry": [
+      "Biochemistry"
+   ],
+   "Biochemistry (medical)": [
+      "Biochemistry",
+      "Medicine"
+   ],
+   "Clinical Biochemistry": [
+      "Biochemistry"
+   ],
+   "Structural Biology": [
+      "Biochemistry"
+   ],
+   "Biomedical Engineering": [
+      "Biotechnology and Bioengineering"
+   ],
+   "Biotechnology": [
+      "Biotechnology and Bioengineering"
+   ],
+   "Bioengineering": [
+      "Biotechnology and Bioengineering"
+   ],
+   "Histology": [
+      "Biology"
+   ],
+   "Parasitology": [
+      "Biology"
+   ],
+   "Cell Biology": [
+      "Biology"
+   ],
+   "Molecular Biology": [
+      "Biology"
+   ],
+   "Molecular Medicine": [
+      "Biochemistry"
+   ],
+   "Embryology": [
+      "Biology"
+   ],
+   "Developmental Biology": [
+      "Biology"
+   ],
+   "Genetics": [
+      "Genetics"
+   ],
+   "Genetics (clinical)": [
+      "Genetics"
+   ],
+   "General Agricultural and Biological Sciences": [
+      "Agriculture and Forestry"
+   ],
+   "Agricultural and Biological Sciences (miscellaneous)": [
+      "Agriculture and Forestry"
+   ],
+   "Agronomy and Crop Science": [
+      "Agriculture and Forestry"
+   ],
+   "Horticulture": [
+      "Agriculture and Forestry"
+   ],
+   "Food Science": [
+      "Nutrition and Food Science"
+   ],
+   "Nutrition and Dietetics": [
+      "Nutrition and Food Science"
+   ],
+   "General Pharmacology, Toxicology and Pharmaceutics": [
+      "Pharmacy and Pharmacology"
+   ],
+   "Pharmacology, Toxicology and Pharmaceutics (miscellaneous)": [
+      "Pharmacy and Pharmacology"
+   ],
+   "Pharmacology": [
+      "Pharmacy and Pharmacology"
+   ],
+   "Pharmacology (medical)": [
+      "Pharmacy and Pharmacology",
+      "Medicine"
+   ],
+   "Pharmacology (nursing)": [
+      "Pharmacy and Pharmacology",
+      "Nursing"
+   ],
+   "Pharmaceutical Science": [
+      "Pharmacy and Pharmacology"
+   ],
+   "Pharmacy": [
+      "Pharmacy and Pharmacology"
+   ],
+   "Drug Discovery": [
+      "Pharmacy and Pharmacology"
+   ],
+   "Complementary and alternative medicine": [
+      "Pharmacy and Pharmacology"
+   ],
+   "Drug Guides": [
+      "Pharmacy and Pharmacology"
+   ],
+   "Toxicology": [
+      "Pharmacy and Pharmacology"
+   ],
+   "Health, Toxicology and Mutagenesis": [
+      "Pharmacy and Pharmacology",
+      "Genetics"
+   ],
+   "General Psychology": [
+      "Psychology"
+   ],
+   "Psychology (miscellaneous)": [
+      "Psychology"
+   ],
+   "Clinical Psychology": [
+      "Psychology"
+   ],
+   "Developmental and Educational Psychology": [
+      "Psychology"
+   ],
+   "Social Psychology": [
+      "Psychology"
+   ],
+   "Applied Psychology": [
+      "Psychology"
+   ],
+   "Neuropsychology and Physiological Psychology": [
+      "Psychology",
+      "Anatomy and Physiology"
+   ],
+   "Experimental and Cognitive Psychology": [
+      "Psychology"
+   ],
+   "Psychiatry and Mental health": [
+      "Psychiatry and Mental health"
+   ],
+   "Pshychiatric Mental Health": [
+      "Psychiatry and Mental health"
+   ],
+   "Biological Psychiatry": [
+      "Psychiatry and Mental health",
+      "Medicine"
+   ],
+   "General Neuroscience": [
+      "Neuroscience"
+   ],
+   "Neuroscience (miscellaneous)": [
+      "Neuroscience"
+   ],
+   "Behavioral Neuroscience": [
+      "Neuroscience"
+   ],
+   "Cognitive Neuroscience": [
+      "Neuroscience"
+   ],
+   "Cellular and Molecular Neuroscience": [
+      "Neuroscience"
+   ],
+   "Neurology": [
+      "Neuroscience",
+      "Medicine"
+   ],
+   "Neurology (clinical)": [
+      "Neuroscience",
+      "Medicine"
+   ],
+   "Developmental Neuroscience": [
+      "Neuroscience"
+   ],
+   "Speech and Hearing": [
+      "Other"
+   ],
+   "General Veterinary": [
+      "Veterinary Science"
+   ],
+   "Veterinary (miscellaneous)": [
+      "Veterinary Science"
+   ],
+   "Animal Science and Zoology": [
+      "Biology"
+   ],
+   "Food Animals": [
+      "Biology"
+   ],
+   "Small Animals": [
+      "Biology"
+   ],
+   "Insect Science": [
+      "Biology"
+   ],
+   "Equine": [
+      "Biology"
+   ],
+   "Paleontology": [
+      "Biology"
+   ],
+   "Plant Science": [
+      "Biology"
+   ],
+   "Forestry": [
+      "Agriculture and Forestry"
+   ],
+   "Anatomy": [
+      "Anatomy and Physiology"
+   ],
+   "Ecology, Evolution, Behavior and Systematics": [
+      "Biology"
+   ],
+   "Ecology": [
+      "Biology"
+   ],
+   "Ecological Modeling": [
+      "Biology"
+   ],
+   "Education": [
+      "Education"
+   ],
+   "Review and Exam Preparation": [
+      "Education"
+   ],
+   "Fundamentals and skills": [
+      "Education"
+   ],
+   "Multidisciplinary": [
+      "Other"
+   ],
+   "General Chemistry": [
+      "Chemistry"
+   ],
+   "Chemistry (miscellaneous)": [
+      "Chemistry"
+   ],
+   "Inorganic Chemistry": [
+      "Chemistry"
+   ],
+   "Organic Chemistry": [
+      "Chemistry"
+   ],
+   "Catalysis": [
+      "Chemistry"
+   ],
+   "Environmental Chemistry": [
+      "Chemistry"
+   ],
+   "Physical and Theoretical Chemistry": [
+      "Chemistry"
+   ],
+   "Analytical Chemistry": [
+      "Chemistry"
+   ],
+   "Materials Chemistry": [
+      "Chemistry",
+      "Materials Science"
+   ],
+   "Process Chemistry and Technology": [
+      "Chemistry"
+   ],
+   "Electrochemistry": [
+      "Chemistry"
+   ],
+   "Colloid and Surface Chemistry": [
+      "Chemistry"
+   ],
+   "General Chemical Engineering": [
+      "Chemical Engineering"
+   ],
+   "Chemical Engineering (miscellaneous)": [
+      "Chemical Engineering"
+   ],
+   "Chemical Health and Safety": [
+      "Other"
+   ],
+   "General Materials Science": [
+      "Materials Science"
+   ],
+   "Materials Science (miscellaneous)": [
+      "Materials Science"
+   ],
+   "Electronic, Optical and Magnetic Materials": [
+      "Materials Science"
+   ],
+   "Ceramics and Composites": [
+      "Materials Science"
+   ],
+   "Polymers and Plastics": [
+      "Materials Science"
+   ],
+   "Metals and Alloys": [
+      "Materials Science"
+   ],
+   "Surfaces, Coatings and Films": [
+      "Materials Science"
+   ],
+   "Biomaterials": [
+      "Materials Science",
+      "Biotechnology and Bioengineering"
+   ],
+   "Surfaces and Interfaces": [
+      "Other"
+   ],
+   "Mechanics of Materials": [
+      "Physics and Astronomy",
+      "Materials Science"
+   ],
+   "Mechanical Engineering": [
+      "Mechanical Engineering"
+   ],
+   "Computational Mechanics": [
+      "Mechanical Engineering"
+   ],
+   "General Engineering": [
+      "Engineering"
+   ],
+   "Engineering (miscellaneous)": [
+      "Engineering"
+   ],
+   "Industrial and Manufacturing Engineering": [
+      "Industrial and Systems Engineering"
+   ],
+   "Management of Technology and Innovation": [
+      "Industrial and Systems Engineering"
+   ],
+   "Safety, Risk, Reliability and Quality": [
+      "Industrial and Systems Engineering"
+   ],
+   "Safety Research": [
+      "Industrial and Systems Engineering"
+   ],
+   "Acoustics and Ultrasonics": [
+      "Physics and Astronomy"
+   ],
+   "Radiation": [
+      "Physics and Astronomy"
+   ],
+   "Radiological and Ultrasound Technology": [
+      "Engineering"
+   ],
+   "Spectroscopy": [
+      "Physics and Astronomy"
+   ],
+   "Civil and Structural Engineering": [
+      "Civil and Structural Engineering"
+   ],
+   "Architecture": [
+      "Architecture"
+   ],
+   "Building and Construction": [
+      "Civil and Structural Engineering"
+   ],
+   "Automotive Engineering": [
+      "Mechanical Engineering"
+   ],
+   "Aerospace Engineering": [
+      "Mechanical Engineering"
+   ],
+   "Energy (miscellaneous)": [
+      "Energy"
+   ],
+   "General Energy": [
+      "Energy"
+   ],
+   "Energy Engineering and Power Technology": [
+      "Energy"
+   ],
+   "Nuclear Energy and Engineering": [
+      "Energy",
+      "Engineering"
+   ],
+   "Control and Systems Engineering": [
+      "Industrial and Systems Engineering"
+   ],
+   "Control and Optimization": [
+      "Industrial and Systems Engineering"
+   ],
+   "Electrical and Electronic Engineering": [
+      "Electrical and Electronic Engineering"
+   ],
+   "Signal Processing": [
+      "Electrical and Electronic Engineering"
+   ],
+   "Biophysics": [
+      "Physics and Astronomy"
+   ],
+   "Atomic and Molecular Physics, and Optics": [
+      "Physics and Astronomy"
+   ],
+   "Condensed Matter Physics": [
+      "Physics and Astronomy"
+   ],
+   "Statistical and Nonlinear Physics": [
+      "Physics and Astronomy"
+   ],
+   "General Physics and Astronomy": [
+      "Physics and Astronomy"
+   ],
+   "Physics and Astronomy (miscellaneous)": [
+      "Physics and Astronomy"
+   ],
+   "Astronomy and Astrophysics": [
+      "Physics and Astronomy"
+   ],
+   "Nuclear and High Energy Physics": [
+      "Physics and Astronomy"
+   ],
+   "Mathematical Physics": [
+      "Physics and Astronomy"
+   ],
+   "Geophysics": [
+      "Geophysics and Geology"
+   ],
+   "Fluid Flow and Transfer Processes": [
+      "Physics and Astronomy"
+   ],
+   "General Earth and Planetary Sciences": [
+      "Earth and Marine Sciences"
+   ],
+   "Earth and Planetary Sciences (miscellaneous)": [
+      "Earth and Marine Sciences"
+   ],
+   "Space and Planetary Science": [
+      "Earth and Marine Sciences"
+   ],
+   "Global and Planetary Change": [
+      "Earth and Marine Sciences"
+   ],
+   "Earth-Surface Processes": [
+      "Earth and Marine Sciences"
+   ],
+   "Stratigraphy": [
+      "Earth and Marine Sciences",
+      "Geophysics and Geology"
+   ],
+   "Atmospheric Science": [
+      "Earth and Marine Sciences"
+   ],
+   "Computers in Earth Sciences": [
+      "Earth and Marine Sciences"
+   ],
+   "Soil Science": [
+      "Earth and Marine Sciences"
+   ],
+   "Oceanography": [
+      "Earth and Marine Sciences"
+   ],
+   "Ocean Engineering": [
+      "Earth and Marine Sciences"
+   ],
+   "Aquatic Science": [
+      "Earth and Marine Sciences"
+   ],
+   "Water Science and Technology": [
+      "Environmental Sciences"
+   ],
+   "Geology": [
+      "Geophysics and Geology"
+   ],
+   "Geotechnical Engineering and Engineering Geology": [
+      "Geophysics and Geology"
+   ],
+   "Geochemistry and Petrology": [
+      "Geophysics and Geology"
+   ],
+   "Economic Geology": [
+      "Geophysics and Geology"
+   ],
+   "Fuel Technology": [
+      "Engineering"
+   ],
+   "Computer Graphics and Computer-Aided Design": [
+      "Computer Science"
+   ],
+   "General Computer Science": [
+      "Computer Science"
+   ],
+   "Computer Science (miscellaneous)": [
+      "Computer Science"
+   ],
+   "Computer Science Applications": [
+      "Computer Science"
+   ],
+   "Computer Networks and Communications": [
+      "Computer Science",
+      "Engineering"
+   ],
+   "Sensory Systems": [
+      "Computer Science"
+   ],
+   "Human-Computer Interaction": [
+      "Computer Science"
+   ],
+   "Theoretical Computer Science": [
+      "Computer Science"
+   ],
+   "Computer Vision and Pattern Recognition": [
+      "Computer Science",
+      "Data Science"
+   ],
+   "Artificial Intelligence": [
+      "Computer Science",
+      "Data Science"
+   ],
+   "Software": [
+      "Computer Science"
+   ],
+   "Hardware and Architecture": [
+      "Computer Science"
+   ],
+   "Modeling and Simulation": [
+      "Computer Science"
+   ],
+   "Logic": [
+      "Mathematics"
+   ],
+   "Computational Theory and Mathematics": [
+      "Mathematics"
+   ],
+   "Computational Mathematics": [
+      "Mathematics"
+   ],
+   "Algebra and Number Theory": [
+      "Mathematics"
+   ],
+   "Discrete Mathematics and Combinatorics": [
+      "Mathematics"
+   ],
+   "Geometry and Topology": [
+      "Mathematics"
+   ],
+   "Numerical Analysis": [
+      "Mathematics"
+   ],
+   "Analysis": [
+      "Mathematics"
+   ],
+   "Applied Mathematics": [
+      "Mathematics"
+   ],
+   "General Mathematics": [
+      "Mathematics"
+   ],
+   "Mathematics (miscellaneous)": [
+      "Mathematics"
+   ],
+   "Statistics and Probability": [
+      "Data Science"
+   ],
+   "Statistics, Probability and Uncertainty": [
+      "Data Science"
+   ],
+   "Library and Information Sciences": [
+      "Information Systems and Management"
+   ],
+   "Health Information Management": [
+      "Information Systems and Management"
+   ],
+   "Health Informatics": [
+      "Information Systems and Management"
+   ],
+   "Information Systems and Management": [
+      "Information Systems and Management"
+   ],
+   "Management Information Systems": [
+      "Information Systems and Management"
+   ],
+   "Information Systems": [
+      "Information Systems and Management"
+   ],
+   "Geography, Planning and Development": [
+      "Geography, Planning and Development"
+   ],
+   "Urban Studies": [
+      "Geography, Planning and Development"
+   ],
+   "Development": [
+      "Geography, Planning and Development"
+   ],
+   "General Environmental Science": [
+      "Environmental Sciences"
+   ],
+   "Environmental Science (miscellaneous)": [
+      "Environmental Sciences"
+   ],
+   "Environmental Engineering": [
+      "Environmental Sciences"
+   ],
+   "Nature and Landscape Conservation": [
+      "Environmental Sciences"
+   ],
+   "Conservation": [
+      "Environmental Sciences"
+   ],
+   "Waste Management and Disposal": [
+      "Environmental Sciences"
+   ],
+   "Pollution": [
+      "Environmental Sciences"
+   ],
+   "Renewable Energy, Sustainability and the Environment": [
+      "Energy",
+      "Environmental Sciences"
+   ],
+   "Public Health, Environmental and Occupational Health": [
+      "Public Health"
+   ],
+   "Epidemiology": [
+      "Epidemiology"
+   ],
+   "Health Professions (miscellaneous)": [
+      "Public Health"
+   ],
+   "General Health Professions": [
+      "Public Health"
+   ],
+   "Care Planning": [
+      "Public Health"
+   ],
+   "Community and Home Care": [
+      "Public Health"
+   ],
+   "Strategy and Management": [
+      "Business, Management and Accounting"
+   ],
+   "Organizational Behavior and Human Resource Management": [
+      "Business, Management and Accounting"
+   ],
+   "Management Science and Operations Research": [
+      "Business, Management and Accounting"
+   ],
+   "Leadership and Management": [
+      "Business, Management and Accounting"
+   ],
+   "Business and International Management": [
+      "Business, Management and Accounting"
+   ],
+   "General Business, Management and Accounting": [
+      "Business, Management and Accounting"
+   ],
+   "Business, Management and Accounting (miscellaneous)": [
+      "Business, Management and Accounting"
+   ],
+   "Decision Sciences (miscellaneous)": [
+      "Business, Management and Accounting"
+   ],
+   "General Decision Sciences": [
+      "Business, Management and Accounting"
+   ],
+   "Accounting": [
+      "Business, Management and Accounting"
+   ],
+   "General Economics, Econometrics and Finance": [
+      "Economics, Econometrics and Finance"
+   ],
+   "Economics, Econometrics and Finance (miscellaneous)": [
+      "Economics, Econometrics and Finance"
+   ],
+   "Economics and Econometrics": [
+      "Economics, Econometrics and Finance"
+   ],
+   "Finance": [
+      "Economics, Econometrics and Finance"
+   ],
+   "Tourism, Leisure and Hospitality Management": [
+      "Business, Management and Accounting"
+   ],
+   "Marketing": [
+      "Business, Management and Accounting"
+   ],
+   "Social Sciences (miscellaneous)": [
+      "Social Sciences"
+   ],
+   "General Social Sciences": [
+      "Social Sciences"
+   ],
+   "Health (social science)": [
+      "Social Sciences",
+      "Public Health"
+   ],
+   "Gender Studies": [
+      "Social Sciences"
+   ],
+   "Sociology and Political Science": [
+      "Sociology and Political Science"
+   ],
+   "Demography": [
+      "Sociology and Political Science"
+   ],
+   "Political Science and International Relations": [
+      "Sociology and Political Science"
+   ],
+   "Health Policy": [
+      "Social Policy and Administration"
+   ],
+   "Public Administration": [
+      "Social Policy and Administration"
+   ],
+   "Management, Monitoring, Policy and Law": [
+      "Social Policy and Administration",
+      "Law"
+   ],
+   "Law": [
+      "Law"
+   ],
+   "Issues, ethics and legal aspects": [
+      "Other"
+   ],
+   "Industrial relations": [
+      "Other"
+   ],
+   "Communication": [
+      "Communication and Media Studies"
+   ],
+   "Media Technology": [
+      "Communication and Media Studies"
+   ],
+   "Arts and Humanities (miscellaneous)": [
+      "Arts and Humanities"
+   ],
+   "General Arts and Humanities": [
+      "Arts and Humanities"
+   ],
+   "Visual Arts and Performing Arts": [
+      "Arts and Humanities"
+   ],
+   "Music": [
+      "Arts and Humanities"
+   ],
+   "Classics": [
+      "Arts and Humanities"
+   ],
+   "Museology": [
+      "Arts and Humanities"
+   ],
+   "Language and Linguistics": [
+      "Language and Linguistics"
+   ],
+   "Linguistics and Language": [
+      "Language and Linguistics"
+   ],
+   "History": [
+      "History"
+   ],
+   "Philosophy": [
+      "Philosophy"
+   ],
+   "History and Philosophy of Science": [
+      "Philosophy",
+      "History"
+   ],
+   "Religious studies": [
+      "Religious studies"
+   ],
+   "Archeology": [
+      "Archeology"
+   ],
+   "Anthropology": [
+      "Anthropology"
+   ],
+   "Cultural Studies": [
+      "Sociology and Political Science",
+      "Anthropology"
+   ],
+   "Literature and Literary Theory": [
+      "Literature and Literary Theory"
+   ],
+   "Research and Theory": [
+      "Other"
+   ],
+   "Filtration and Separation": [
+      "Other"
+   ],
+   "Human Factors and Ergonomics": [
+      "Social Sciences"
+   ],
+   "Instrumentation": [
+      "Other"
+   ],
+   "Transportation": [
+      "Geography, Planning and Development"
+   ]
+}

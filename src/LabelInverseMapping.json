@@ -1,0 +1,73 @@
+{
+   "Life Sciences": [
+      "Agriculture and Forestry",
+      "Anatomy and Physiology",
+      "Biochemistry",
+      "Biology",
+      "Genetics",
+      "Infectious Diseases",
+      "Microbiology",
+      "Neuroscience",
+      "Nutrition and Food Science",
+      "Veterinary Science",
+      "Virology"
+   ],
+   "Social Sciences": [
+      "Anthropology",
+      "Communication and Media Studies",
+      "Geography, Planning and Development",
+      "Law",
+      "Social Policy and Administration",
+      "Sociology and Political Science"
+   ],
+   "Arts and Humanities": [
+      "Archeology",
+      "Architecture",
+      "History",
+      "Language and Linguistics",
+      "Literature and Literary Theory",
+      "Philosophy",
+      "Religious studies"
+   ],
+   "Engineering": [
+      "Biotechnology and Bioengineering",
+      "Chemical Engineering",
+      "Civil and Structural Engineering",
+      "Electrical and Electronic Engineering",
+      "Energy",
+      "Industrial and Systems Engineering",
+      "Materials Science",
+      "Mechanical Engineering"
+   ],
+   "Business and Economics": [
+      "Business, Management and Accounting",
+      "Economics, Econometrics and Finance"
+   ],
+   "Physical Sciences": [
+      "Chemistry",
+      "Earth and Marine Sciences",
+      "Environmental Sciences",
+      "Geophysics and Geology",
+      "Mathematics",
+      "Physics and Astronomy"
+   ],
+   "General Computer Science": [
+      "Computer Science",
+      "Data Science",
+      "Information Systems and Management"
+   ],
+   "Clinical and Health": [
+      "Dentistry",
+      "Epidemiology",
+      "Immunology",
+      "Medicine",
+      "Nursing",
+      "Pharmacy and Pharmacology",
+      "Psychiatry and Mental health",
+      "Public Health",
+      "Surgery"
+   ],
+   "Education": [],
+   "Other": [],
+   "Psychology": []
+}

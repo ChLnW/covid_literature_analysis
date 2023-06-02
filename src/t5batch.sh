@@ -1,0 +1,1 @@
+accelerate launch --num_processes 2 --num_cpu_threads_per_process 2 t5traningscript.py
